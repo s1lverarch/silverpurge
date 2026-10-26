@@ -119,7 +119,7 @@ Every confirmation is asked before anything changes.
 - Package and journal cleanup need root, and the tool refuses to run them without it.
 - File categories can be moved to backup instead of deleted.
 - Actions are logged to `/var/log/silverpurge.log`.
-
+- The Developer Is Not Responsible With Any Break In Your System " The Tool Ask You About The destructives steps for `y` first
 ---
 
 ## 🗺️ Roadmap
