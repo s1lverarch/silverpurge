@@ -1,4 +1,4 @@
-# silverpurge
+# Silverpurge / Cleaner For Arch Linux
 
 > SilverArch system cleanup: orphans, package cache, journal, trash, and thumbnails, with dry-run first.
 
@@ -42,12 +42,7 @@
 
 </div>
 
-Record demos with the included `demo.tape`:
-
-```bash
-sudo pacman -S vhs
-vhs demo.tape            # writes demo/scan.gif
-```
+<img width="1000" height="560" alt="scan" src="https://github.com/user-attachments/assets/8c07a4d4-6026-4f84-8f83-71c714a69f76" />
 
 ---
 
